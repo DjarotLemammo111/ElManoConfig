@@ -229,6 +229,8 @@ body {
 }
 
 .about .row .content p {
+  
+  width: 300;
   margin-bottom: 0.8rem;
   font-size: 1.4rem;
   font-weight: 100;
